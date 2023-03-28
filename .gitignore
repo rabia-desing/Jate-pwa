@@ -1,8 +1,6 @@
-.DS_Store/
-assets/
 node_modules/
 .vscode/
 .env
 package-lock.json
-/server/package-lock.json
-/client/package-lock.json
+server/package-lock.json
+client/package-lock.json
