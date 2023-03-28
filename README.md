@@ -51,7 +51,7 @@ THEN I should have proper build scripts for a webpack application
 
 The following animation demonstrates the application functionality:
 
-![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](https://github.com/rabia-desing/Jate-pwa/blob/main/assets/screen-recording.mp4)
+![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./assets/screen-recording.mp4)
 
 The following image shows the application's registered service worker:
 
